@@ -44,3 +44,5 @@
 - Badge milestone 22
 
 - Badge milestone 23
+
+- Badge milestone 24
