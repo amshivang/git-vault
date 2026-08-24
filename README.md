@@ -40,3 +40,5 @@
 - Badge milestone 20
 
 - Badge milestone 21
+
+- Badge milestone 22
