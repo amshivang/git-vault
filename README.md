@@ -12,3 +12,5 @@
 - Badge milestone 6
 
 - Badge milestone 7
+
+- Badge milestone 8
