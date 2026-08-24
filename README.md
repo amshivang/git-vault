@@ -32,3 +32,5 @@
 - Badge milestone 16
 
 - Badge milestone 17
+
+- Badge milestone 18
