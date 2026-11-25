@@ -23,7 +23,7 @@
   <p>
     <a href="#-overview">Overview</a> •
     <a href="#-experimental-objectives">Objectives</a> •
-    <a href="#-branch--milestone-matrix">Milestone Matrix</a> •
+    <a href="#-milestone-matrix">Milestone Matrix</a> •
     <a href="#-workflow-architecture">Workflow Architecture</a> •
     <a href="#-author--connect">Author</a>
   </p>
